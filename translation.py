@@ -34,7 +34,6 @@ I can convert file to video or video to file with custom thumbnail support.
 **👨‍💻 Developer:** Anonymous
 
 **💻 Source Code:**Next Time
-
 """
 
 ##############################################################################################################################
