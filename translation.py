@@ -24,9 +24,6 @@ I can convert file to video or video to file with custom thumbnail support.
 4. Reply to file /converttovideo for converting into video.
 
 
-
-
-
 #Please don't change this about command 🙏
 
       ABOUT = """
@@ -35,10 +32,6 @@ I can convert file to video or video to file with custom thumbnail support.
 **🧰 Framework:** Pyrogram
 
 **👨‍💻 Developer:** Anonymous
-
-
-
-
 
 **💻 Source Code:**Next Time
 
